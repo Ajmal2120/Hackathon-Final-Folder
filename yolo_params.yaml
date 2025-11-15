@@ -1,0 +1,5 @@
+train: "C:\\hackathon\\train_1\\train1"
+val: "C:\\hackathon\\runs\\detect"
+test: "C:\\hackathon\\test3"
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
